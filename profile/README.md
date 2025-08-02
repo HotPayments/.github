@@ -1,4 +1,4 @@
-![HotPayments Logo](https://raw.githubusercontent.com/HotPayments/HotPayments/main/.github/assets/logo.png)
+![HotPayments Logo](https://github.com/HotPayments/.github/blob/main/arts/logo.png?raw=true)
 
 A HotPayments é uma solução moderna e completa para gerenciar e processar pagamentos, oferecendo suporte a checkout, assinaturas e links de pagamento. Nossa plataforma foi desenvolvida para ser intuitiva, segura e flexível, atendendo desde pequenos negócios até grandes empresas.
 
