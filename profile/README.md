@@ -19,3 +19,4 @@ Com **taxas competitivas** e uma infraestrutura robusta, facilitamos a vida de q
 ## SDKs Disponíveis
 
 - [PHP SDK](https://github.com/HotPayments/php-sdk)
+- [Node.js SDK](https://github.com/HotPayments/nodejs-sdk)
